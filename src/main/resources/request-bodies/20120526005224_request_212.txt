@@ -1,0 +1,2 @@
+goog-malware-shavar;a:70192-79621:s:75521-85391:mac
+goog-phish-shavar;a:207618-213594:s:97264-100578:mac

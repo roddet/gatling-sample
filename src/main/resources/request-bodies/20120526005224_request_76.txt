@@ -1,0 +1,2 @@
+{"method":"getPostingRequireCaptcha","params":[,0]
+,"xsrf":"AOuZoY5pELTwfeCvFxNl-LwV0nZmnGlLrA:1337986566664"}
